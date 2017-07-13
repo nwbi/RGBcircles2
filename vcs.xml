@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/Igor040897/MoneyTrackerPro.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/khasang/RGBCircles.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\yuril\StudioProjects" />
